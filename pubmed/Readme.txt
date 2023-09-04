@@ -1,4 +1,4 @@
-# <b>Upload Pubmed files as elastic search index </b>
+# Upload Pubmed files as elastic search index
 
 
 
