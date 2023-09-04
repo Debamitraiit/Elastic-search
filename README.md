@@ -7,8 +7,8 @@
 
 <h1>What do the codes do?</h1>
 
-<h5>1. Converting Clinical Trial XML data to ndjason to upload as an elastic search index (clinical_xml_ndjson.py)</h5>
-<h5>2. Converting Pubmed XML to ndjson</h5>
+<h5>1. Converting Clinical Trial XML data to .ndjson to upload as an elastic search index (clinical_xml_ndjson.py)</h5>
+<h5>2. Converting Pubmed XML to .ndjson</h5>
 <h5>3. Converting patent XML to .ndjson and uploading as elastic search index (patent_to_ES.py): This code uses BeautifulSoup </h5>
 
 
