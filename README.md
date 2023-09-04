@@ -56,7 +56,7 @@ Thanks go to these wonderful people
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Subhogenome"><img src="https://avatars.githubusercontent.com/u/143993347?v=4" width="100px;" alt="SC"/><br /><sub><b>Subhodeep Chatterjee</b></sub></a><br /></a></td>
-       <td align="center" valign="top" width="14.28%"><a href="https://github.com/vsmicrogenomics"><img src="[[https://avatars.githubusercontent.com/u/107602637?v=4](https://avatars.githubusercontent.com/u/107602637?v=4)](https://avatars.githubusercontent.com/u/107602637?v=4)" width="100px;" alt="VS"/><br /><sub><b>Vikas Sharma</b></sub></a><br /></a></td>
+       <td align="center" valign="top" width="14.28%"><a href="https://github.com/vsmicrogenomics"><img src="https://avatars.githubusercontent.com/u/107602637?v=4" width="100px;" alt="VS"/><br /><sub><b>Vikas Sharma</b></sub></a><br /></a></td>
     </tr>
     
   </tbody>
