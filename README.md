@@ -61,3 +61,7 @@ Thanks go to these wonderful people
     
   </tbody>
 </table>
+
+## LICENSE
+
+[MIT](LICENSE)
