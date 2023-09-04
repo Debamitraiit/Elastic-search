@@ -47,3 +47,17 @@ import_pubmed22.sh
 Download Patent XML files: https://developer.uspto.gov/product/patent-application-full-text-dataxml
 
 Use the code patent_to_ES.py
+
+## Contributors ✨
+
+Thanks go to these wonderful people
+
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href=""><img src="" width="100px;" alt="SC"/><br /><sub><b>Subhodeep Chatterjee</b></sub></a><br /></a></td>
+       <td align="center" valign="top" width="14.28%"><a href=""><img src="" width="100px;" alt="VS"/><br /><sub><b>Vikas Sharma</b></sub></a><br /></a></td>
+    </tr>
+    
+  </tbody>
+</table>
