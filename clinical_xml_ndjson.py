@@ -55,3 +55,25 @@ for filename in os.listdir(path):
     
     with open(f"output_{rank}.json", "w+") as f:
         f.write(f"{json.dumps(output_dict)}\n")
+
+#Uploading as elastic search repository
+import requests, json, os
+from elasticsearch import Elasticsearch
+
+directory = '/home/ubuntu/clinical/cxml'
+
+res = requests.get('http://localhost:9200')
+print (res.content)
+es = Elasticsearch([{'host': 'localhost', 'port': '9200'}])
+
+i = 1
+
+for filename in os.listdir(directory):
+    if filename.endswith(".json"):
+        fullpath=os.path.join(directory, filename)
+        f = open(fullpath)
+        docket_content = f.read()
+        # Send the data into es
+        es.index(index='clinical2', ignore=400, doc_type='docket', 
+        id=i, body=json.loads(docket_content))
+        i = i + 1
