@@ -1,11 +1,11 @@
-<h1> XML to JSON to Elastic Search Index</h1
+<h1> XML to JSON to Elastic Search Index ✨</h1
 
-<h2>Prerequisite</h2>
+<h2>Prerequisite </h2>
 
 <h6>1. Elastic Search and Kibana installed</h6>
 <h6>2. Pubmed xml, Clinical Trial xml and patent xml files downloaded</h6>
 
-<h1>What do the codes do?</h1>
+<h1>What do the codes do? ✨</h1>
 
 <h5>1. Converting Clinical Trial XML data to .ndjson to upload as an elastic search index (clinical_xml_ndjson.py)</h5>
 <h5>2. Converting Pubmed XML to .ndjson</h5>
@@ -55,7 +55,7 @@ Thanks go to these wonderful people
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href=""><img src="" width="100px;" alt="SC"/><br /><sub><b>Subhodeep Chatterjee</b></sub></a><br /></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Subhogenome"><img src="" width="100px;" alt="SC"/><br /><sub><b>Subhodeep Chatterjee</b></sub></a><br /></a></td>
        <td align="center" valign="top" width="14.28%"><a href=""><img src="" width="100px;" alt="VS"/><br /><sub><b>Vikas Sharma</b></sub></a><br /></a></td>
     </tr>
     
